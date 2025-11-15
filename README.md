@@ -1,4 +1,4 @@
-# 🏠 Expert-System – Smart Home Energy Management
+## 🏠 Expert-System – Smart Home Energy Management
 
 A lightweight Python expert system that helps you **monitor and control household devices**—lights, fans and common appliances—while keeping track of estimated energy use. The single-file implementation (`energy management.py`) offers an interactive, menu-driven CLI that can be extended into larger IoT or rule-based projects.
 ---
